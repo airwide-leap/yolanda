@@ -1,5 +1,5 @@
-# yolanda
-Yolanda Work
+#### Yolanda
+## Yolanda Work
 - [Effect of spastic cerebral palsy on jaw-closing muscles during clenching](https://pubmed.ncbi.nlm.nih.gov/20618784/)
 - [Influence of pre-orthodontic trainer treatment on the perioral and masticatory muscles in patients with Class II division 1 malocclusion](https://pubmed.ncbi.nlm.nih.gov/21212169/)
 - [Activity of jaw muscles in unilateral cross-bite without mandibular shift](https://pubmed.ncbi.nlm.nih.gov/19019348/)
