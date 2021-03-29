@@ -7,3 +7,4 @@
 - [Memristive synapses connect brain and silicon spiking neurons](https://www.nature.com/articles/s41598-020-58831-9)
 - [Memristor](https://en.wikipedia.org/wiki/Memristor)
 - [Computer hardware designed for 3D games could hold the key to replicating human brain](https://blog.frontiersin.org/2019/01/14/computer-hardware-designed-for-3d-games-could-hold-the-key-to-replicating-human-brain/)
+- [Can a computer program ever replace the human brain? Can computers be made to think and feel, rather than just compute?](https://qr.ae/pGRy0j)
