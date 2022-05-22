@@ -1,4 +1,5 @@
 # Leap Like A Deer
+- [elon-musks-pig-brain-implant-is-still-a-long-way-from-solving-paralysis](https://www.scientificamerican.com/article/elon-musks-pig-brain-implant-is-still-a-long-way-from-solving-paralysis/)
 - [neuralink-and-you-a-human-ai-symbiosis](https://www.scienceme.com/neuralink-and-you-a-human-ai-symbiosis)
 - [Brain Modeling ToolKit: An open source software suite for multiscale modeling of brain circuits](https://doi.org/10.1371/journal.pcbi.1008386)
 - [Neurochip Can Replace Damaged Areas of the Brain](https://www.medicaldesignbriefs.com/component/content/article/mdb/insiders/medical-design-briefs/stories/28089)
@@ -9,3 +10,4 @@
 - [Computer hardware designed for 3D games could hold the key to replicating human brain](https://blog.frontiersin.org/2019/01/14/computer-hardware-designed-for-3d-games-could-hold-the-key-to-replicating-human-brain/)
 - [Can a computer program ever replace the human brain? Can computers be made to think and feel, rather than just compute?](https://qr.ae/pGRy0j)
 - [Joscha Bach](http://bach.ai/)
+- [Effects-of-oral-motor-therapy-in-children-with-cerebral-palsy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3788277/)
